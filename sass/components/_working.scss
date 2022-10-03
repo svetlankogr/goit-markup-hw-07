@@ -1,5 +1,8 @@
 .working {
     padding-top: 0;
+    &__title {
+        @extend %title;
+    }
     &__list {
         display: flex;
         gap: 30px;

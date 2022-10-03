@@ -54,7 +54,7 @@ body {
   padding-bottom: 94px;
 }
 
-.clients__title, .team__title {
+.clients__title, .team__title, .working__title, .feature__title {
   margin-bottom: 50px;
   font-weight: 700;
   font-size: 36px;
